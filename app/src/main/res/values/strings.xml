@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DIDemo</string>
+    <string name="store_value">Store Value</string>
+    <string name="get_value">Get Value</string>
+</resources>
